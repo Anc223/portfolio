@@ -25,7 +25,10 @@
   font-weight: 600;
   color: #1a1a1a;
   margin-bottom: 1rem;
-  margin-top: 1rem;
+  margin-top: -3rem;
+}
+.txt2 h2{
+  margin-top: -7rem;
 }
 
 .abt-pnt ul,

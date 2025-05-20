@@ -18,8 +18,8 @@ function App() {
     <div>
       <BrowserRouter>
       <Routes>
-      <Route path='/Contactus' element={[<Contactus/>,<Contactus2/>,<Footer1/>,<Footer2/>,<Footer3/>]} />
-      <Route path='/Aboutus' element={[<Aboutus1/>,<Aboutus2/>,<Aboutus3/>,<Aboutus4/>,<Footer1/>,<Footer2/>,<Footer3/>]}/>
+      <Route path='/contactus' element={[<Contactus/>,<Contactus2/>,<Footer1/>,<Footer2/>,<Footer3/>]} />
+      <Route path='/aboutus' element={[<Aboutus1/>,<Aboutus2/>,<Aboutus3/>,<Aboutus4/>,<Footer1/>,<Footer2/>,<Footer3/>]}/>
 
       </Routes>
       </BrowserRouter>

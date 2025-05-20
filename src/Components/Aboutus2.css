@@ -1,5 +1,5 @@
 .img {
-  margin-left: 5rem;
+  margin-left: 3.5rem;
   margin-top: 60px;
   margin-bottom: 70px;
 }
@@ -10,9 +10,9 @@
 }
 
 .txt {
-  margin-left: -5rem;
+  margin-left: -2rem;
   font-size: 18px;
-  margin-top: 6rem;
+  margin-top: 1rem;
 }
 
 .txt h3 {
@@ -35,11 +35,13 @@
 .abt-bt h1 {
   font-size: 2.8rem;
   font-weight: bold;
+  text-align: center;
 }
 
 .abt-bt p {
   font-size: 22px;
   color: gray;
+  text-align: center;
 }
 
 .abt-bt p1 {
@@ -53,9 +55,10 @@
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  gap: 30px;
   margin-top: 40px;
   text-align: center;
+  padding: 0px 100px;
+  
 }
 
 .count span {
@@ -63,7 +66,6 @@
   font-weight: bold;
   color: #1a1a1a;
   position: relative;
-  display: block;
 }
 
 .count span::after {
@@ -74,7 +76,7 @@
   background-size: cover;
   position: absolute;
   top: 0;
-  left: 9rem;
+  left: 4rem;
 }
 
 .count p {

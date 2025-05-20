@@ -1,5 +1,6 @@
 import React from 'react';
 import './Aboutus4.css';
+import { Link } from 'react-router-dom';
 
 function Aboutus4() {
   return (
@@ -15,14 +16,6 @@ function Aboutus4() {
           <p>
             We harness innovation to solve <br/> complex challenges, exploring <br/> new technologies and creative <br/>
             approaches to deliver cutting- <br/> edge, effective solutions.
-          </p>
-        </div>
-
-        <div className="core-card">
-          <h3>Collaborative Client Partnerships</h3>
-          <p>
-            We prioritize clients through <br/> transparent communication, <br/> building strong partnerships to <br/>
-            ensure each project aligns with <br/> their goals and needs.
           </p>
         </div>
 
@@ -45,7 +38,7 @@ function Aboutus4() {
       <div className='abt-box'>
       <div className='abt-yelbox'
       ><h1>Want to talk about your project? </h1>
-      <button className='abt-lstbtn'>Schedule meeting</button>
+      <Link to={'/contactus'}><button className='abt-lstbtn'>Schedule meeting</button></Link>
       </div>
       </div>
     </div>

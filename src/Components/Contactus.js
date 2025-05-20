@@ -14,12 +14,12 @@ function Contactus() {
         Contact us today to elevate your web presence.
       </p1>
       <div class="icon-container">
-        <a href="#"><img className='whatsapp' src="https://kosuketechnologies.com/assets/img/watsapp.svg" alt="WhatsApp" /></a>
-        <a href="#"><img className='insta' src="https://kosuketechnologies.com/assets/img/instagramhero.svg" alt="Instagram" /></a>
-        <a href="#"><img className='phone' src="http://kosuketechnologies.com/assets/img/phonehero.svg" alt="Phone" /></a>
-        <a href="#"><img className='mail' src="https://kosuketechnologies.com/assets/img/mailhero.svg" alt="Mail" /></a>
-        <a href="#"><img className='twitter' src="https://kosuketechnologies.com/assets/img/twitterold.svg" alt="Twitter" /></a>
-        <a href="#"><img className='message' src="https://kosuketechnologies.com/assets/img/messagehero.svg" alt="Message" /></a>
+        <img className='whatsapp' src="https://kosuketechnologies.com/assets/img/watsapp.svg" alt="WhatsApp" />
+        <img className='insta' src="https://kosuketechnologies.com/assets/img/instagramhero.svg" alt="Instagram" />
+        <img className='phone' src="http://kosuketechnologies.com/assets/img/phonehero.svg" alt="Phone" />
+        <img className='mail' src="https://kosuketechnologies.com/assets/img/mailhero.svg" alt="Mail" />
+        <img className='twitter' src="https://kosuketechnologies.com/assets/img/twitterold.svg" alt="Twitter" />
+        <img className='message' src="https://kosuketechnologies.com/assets/img/messagehero.svg" alt="Message" />
       </div>
       <div className="color-dots">
         <div className="dot yellow-dot"></div>

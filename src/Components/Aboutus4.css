@@ -25,7 +25,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 24px;
+  gap: 50px;
 }
 
 .core-card {

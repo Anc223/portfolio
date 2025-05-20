@@ -3,6 +3,7 @@
     padding: 40px 80px;
     background-color: #fff;
     font-family: 'Segoe UI', sans-serif;
+    text-align: center;
 }
   
 .social-title {
@@ -24,8 +25,8 @@
     display: flex;
     flex-wrap: wrap;
     gap: 80px;
-    justify-content: flex-start;
-    align-items: center;
+    justify-content: center;
+    text-align: left;
     margin-left: 20px;
 }
   
@@ -33,6 +34,7 @@
     display: flex;
     align-items: center;
     gap: 15px;
+    text-decoration: none;
 }
   
 .social-card img {
