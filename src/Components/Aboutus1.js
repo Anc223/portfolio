@@ -1,5 +1,5 @@
 import React from 'react';
-import './Aboutus1.css'; // Import the CSS file
+import './Aboutus1.css';
 
 function Aboutus1() {
   return (
@@ -13,7 +13,7 @@ function Aboutus1() {
       </p>
 
       <p className="about-description">
-        At Kosuke Technologies, we craft custom web solutions that align with your
+        At Least Action, we craft custom web solutions that align with your
         <br />
         goals. Our expert team uses advanced technology and strategic innovation to
         <br />
