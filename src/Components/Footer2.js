@@ -8,7 +8,7 @@ function Footer2() {
             <div className='foot-bg'>
                 <div className='foot-hd1'>
                     <h2>What we do</h2>
-                    <p>Kosuke Technologies Pvt Ltd is a <br /> young and a creative web design <br />
+                    <p>Least Action Pvt Ltd is a <br /> young and a creative web design <br />
                         and web development company. <br /> Started with young professionals <br />
                         with proper knowledge and <br /> hands-on experience in design <br /> and development.
                     </p>
